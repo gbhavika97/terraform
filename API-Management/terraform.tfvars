@@ -1,0 +1,6 @@
+resource_group_name = "api-terraform"
+resource_group_location = "East US2"
+api_management_name = "mydemoxyzeus2-apim"
+api_management_publisher_name = "My Demo Company"
+api_management_publisher_email = "mydemocompany@terraform.io"
+api_management_sku_name = "Developer_1"
